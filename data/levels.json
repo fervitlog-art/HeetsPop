@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Stage 1",
+    "target": 3000,
+    "shots": 58,
+    "rows": 5,
+    "colors": 4,
+    "step": 3.0,
+    "brief": "Ready?"
+  },
+  {
+    "title": "Stage 2",
+    "target": 6200,
+    "shots": 54,
+    "rows": 6,
+    "colors": 5,
+    "step": 2.35,
+    "brief": "Nice shot!"
+  },
+  {
+    "title": "Stage 3",
+    "target": 9300,
+    "shots": 50,
+    "rows": 7,
+    "colors": 6,
+    "step": 1.8,
+    "brief": "Combo time!"
+  },
+  {
+    "title": "Stage 4",
+    "target": 12800,
+    "shots": 46,
+    "rows": 7,
+    "colors": 8,
+    "step": 1.25,
+    "brief": "Bank bonus!"
+  },
+  {
+    "title": "Stage 5",
+    "target": 17200,
+    "shots": 42,
+    "rows": 8,
+    "colors": 10,
+    "step": 0.9,
+    "brief": "Final round!"
+  }
+]

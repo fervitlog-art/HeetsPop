@@ -1,0 +1,101 @@
+[
+  {
+    "id": "azure",
+    "name": "Azure",
+    "short": "Azure",
+    "letter": "A",
+    "image": "assets/products/azure.png",
+    "color": "#0072CE",
+    "symbol": "A"
+  },
+  {
+    "id": "bronze",
+    "name": "Bronze",
+    "short": "Bronze",
+    "letter": "B",
+    "image": "assets/products/bronze.png",
+    "color": "#C66A00",
+    "symbol": "B"
+  },
+  {
+    "id": "sienna",
+    "name": "Sienna",
+    "short": "Sienna",
+    "letter": "S",
+    "image": "assets/products/sienna.png",
+    "color": "#9C2F1B",
+    "symbol": "S"
+  },
+  {
+    "id": "turquoise",
+    "name": "Turquoise",
+    "short": "Turquoise",
+    "letter": "T",
+    "image": "assets/products/turquoise.png",
+    "color": "#00A6A6",
+    "symbol": "T"
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "short": "Ruby",
+    "letter": "R",
+    "image": "assets/products/ruby.png",
+    "color": "#D50057",
+    "symbol": "R"
+  },
+  {
+    "id": "yellow",
+    "name": "Yellow",
+    "short": "Yellow",
+    "letter": "Y",
+    "image": "assets/products/yellow.png",
+    "color": "#FFD400",
+    "symbol": "Y"
+  },
+  {
+    "id": "silver",
+    "name": "Silver",
+    "short": "Silver",
+    "letter": "S",
+    "image": "assets/products/silver.png",
+    "color": "#6B7280",
+    "symbol": "S"
+  },
+  {
+    "id": "electro",
+    "name": "Electro",
+    "short": "Electro",
+    "letter": "E",
+    "image": "assets/products/electro.png",
+    "color": "#6A00FF",
+    "symbol": "E"
+  },
+  {
+    "id": "alpine",
+    "name": "Alpine",
+    "short": "Alpine",
+    "letter": "A",
+    "image": "assets/products/alpine.png",
+    "color": "#00A854",
+    "symbol": "A"
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "short": "Amber",
+    "letter": "A",
+    "image": "assets/products/amber.png",
+    "color": "#FF8A00",
+    "symbol": "A"
+  },
+  {
+    "id": "bonus",
+    "name": "Bonus",
+    "short": "Bonus",
+    "letter": "?",
+    "image": "assets/products/bonus.png",
+    "color": "#7DD3FC",
+    "symbol": "?"
+  }
+]
